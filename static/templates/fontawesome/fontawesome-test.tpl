@@ -16,7 +16,7 @@
         {{{ end }}}
     </div>
     <div class="row">
-        <h2>SCSS variables</h2>
+        <h2>Less variables</h2>
         {{{ each customClasses }}}
         <div class="col-sm-1">
             <i class="{ @value }"></i>

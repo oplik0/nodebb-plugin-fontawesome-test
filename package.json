@@ -1,6 +1,6 @@
 {
     "name": "nodebb-plugin-fontawesome-test",
-    "version": "0.4.1",
+    "version": "0.5.0",
     "description": "A starter kit for quickly creating NodeBB plugins",
     "main": "library.js",
     "repository": {
@@ -35,7 +35,7 @@
     },
     "readmeFilename": "README.md",
     "nbbpm": {
-        "compatibility": "^1.15.0"
+        "compatibility": "^3.0.0"
     },
     "devDependencies": {
         "@commitlint/cli": "13.1.0",

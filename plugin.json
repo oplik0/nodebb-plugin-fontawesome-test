@@ -11,8 +11,14 @@
     "staticDirs": {
         "static": "./static"
     },
-    "less": ["static/style.less"],
-    "scripts": ["static/lib/main.js"],
-    "acpScripts": ["static/lib/admin.js"],
+    "scss": [
+        "static/style.scss"
+    ],
+    "scripts": [
+        "static/lib/main.js"
+    ],
+    "acpScripts": [
+        "static/lib/admin.js"
+    ],
     "templates": "static/templates"
 }
